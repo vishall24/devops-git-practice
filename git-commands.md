@@ -28,5 +28,7 @@
 
 	git checkout -b feature-test
 
+## Viewing last commit history details
 
+ 	git show
 

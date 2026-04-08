@@ -20,5 +20,10 @@
 
 	git log --oneline # view log history in one line
 
+## Checking out to the existing branch
+
+	git checkout feature
+
+
 
 

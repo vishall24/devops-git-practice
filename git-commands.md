@@ -24,6 +24,9 @@
 
 	git checkout feature
 
+## creating and checking out the branch
+
+	git checkout -b feature-test
 
 
 

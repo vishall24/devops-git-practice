@@ -32,3 +32,20 @@
 
  	git show
 
+## TO see all git branches
+
+	git branch
+
+## to create a new branch 
+
+	git checkout feature-1
+
+## to create as well as checkout to it
+
+	git checkout -b feature-2 / git switch -c feature-2
+
+## to switch between branches
+
+	git switch feature-1
+
+

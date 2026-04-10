@@ -48,4 +48,15 @@
 
 	git switch feature-1
 
+## to delete a branch
+
+	git branch -d name → delete branch
+
+## to push to origin branch / remote branch
+
+	git push -u origin branch → push branch # here -u means upstream, next time you do git push , it will do the job
+
+## to pull the latest code from the remote
+
+	git pull → get latest changes  # Here the git pull is sufficient since we have added upstream -u
 # dummy line edited into github directly and pull code into the local

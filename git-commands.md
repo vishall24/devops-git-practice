@@ -89,4 +89,31 @@
 
         git commit -m "feature added"  # required after squash
 
+## Authenticate GitHub CLI with your account (required before using gh)
+
+    gh auth login
+
+## Create a new GitHub repository from terminal
+
+    gh repo create
+
+## List all your GitHub repositories
+
+    gh repo list
+
+## Create a new issue in a repository (for bugs, tasks, tracking)
+
+    gh issue create
+
+## Create a Pull Request from current branch to main (used for code review & merging)
+
+    gh pr create
+
+## Merge a Pull Request directly from terminal (no browser needed)
+
+    gh pr merge
+
+## List GitHub Actions workflow runs (used to check CI/CD status)
+
+    gh run list
 
